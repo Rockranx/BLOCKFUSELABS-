@@ -3,6 +3,8 @@ Hosted via Firebase: https://galore-da241.web.app/
 Local Run procedure:
 Step 1 run npm i
 Step 2 run "npm run dev"
+
+
 How would you manage the application state in your SPA?
 
 Make the universal varibles accessible to all the items that may need them across the entire app by make them the topmost decleared varibles and then passing them as props
